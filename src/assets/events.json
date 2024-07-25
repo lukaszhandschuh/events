@@ -6,7 +6,7 @@
     "description": "Dołącz do nas na corocznym maratonie miejskim. Biegacze na każdym poziomie są mile widziani! Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tellus magna, semper et est euismod, sagittis hendrerit dui. Fusce ornare sapien ac turpis placerat, et molestie nisi pulvinar. Nulla malesuada metus at dolor finibus, eget tincidunt justo vestibulum. Donec hendrerit ante id enim bibendum euismod scelerisque quis massa. Nullam elementum diam urna, tincidunt congue magna fringilla id. Sed hendrerit facilisis turpis, in imperdiet est varius molestie. Aliquam ultricies pharetra tortor, sit amet congue est egestas vitae. Cras nunc neque, hendrerit sed ex vitae, lacinia fringilla augue. Sed ultrices scelerisque molestie. Phasellus euismod erat eu rhoncus condimentum. Fusce vitae ante et velit ultricies ullamcorper.",
     "image": "https://picsum.photos/400/200",
     "type": "sport",
-    "phoneNumber": "+1234567890",
+    "phoneNumber": "+(01) 234-678-9990",
     "email": "info@maratonmiejski.com",
     "address": "ul. Główna 123, Springfield, USA"
   },
@@ -17,7 +17,7 @@
     "description": "Doświadcz najnowszych dzieł lokalnych artystów w galerii sztuki w centrum miasta. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tellus magna, semper et est euismod, sagittis hendrerit dui. Fusce ornare sapien ac turpis placerat, et molestie nisi pulvinar. Nulla malesuada metus at dolor finibus, eget tincidunt justo vestibulum. Donec hendrerit ante id enim bibendum euismod scelerisque quis massa. Nullam elementum diam urna, tincidunt congue magna fringilla id. Sed hendrerit facilisis turpis, in imperdiet est varius molestie. Aliquam ultricies pharetra tortor, sit amet congue est egestas vitae. Cras nunc neque, hendrerit sed ex vitae, lacinia fringilla augue. Sed ultrices scelerisque molestie. Phasellus euismod erat eu rhoncus condimentum. Fusce vitae ante et velit ultricies ullamcorper.",
     "image": "https://picsum.photos/400/201",
     "type": "culture",
-    "phoneNumber": "+1234567891",
+    "phoneNumber": "+(01) 234-678-999",
     "email": "kontakt@galleriesztuki.com",
     "address": "ul. Kulturalna 10, Springfield, USA"
   },
@@ -28,7 +28,7 @@
     "description": "Zapraszamy na poranną jogę w parku. Zajęcia prowadzone przez doświadczonego instruktora. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tellus magna, semper et est euismod, sagittis hendrerit dui. Fusce ornare sapien ac turpis placerat, et molestie nisi pulvinar. Nulla malesuada metus at dolor finibus, eget tincidunt justo vestibulum. Donec hendrerit ante id enim bibendum euismod scelerisque quis massa. Nullam elementum diam urna, tincidunt congue magna fringilla id. Sed hendrerit facilisis turpis, in imperdiet est varius molestie. Aliquam ultricies pharetra tortor, sit amet congue est egestas vitae. Cras nunc neque, hendrerit sed ex vitae, lacinia fringilla augue. Sed ultrices scelerisque molestie. Phasellus euismod erat eu rhoncus condimentum. Fusce vitae ante et velit ultricies ullamcorper.",
     "image": "https://picsum.photos/400/202",
     "type": "health",
-    "phoneNumber": "+1234567892",
+    "phoneNumber": "+(01) 234-678-999",
     "email": "info@jogawparku.com",
     "address": "Park Centralny, Springfield, USA"
   },
@@ -39,7 +39,7 @@
     "description": "Całodniowy festiwal muzyczny z udziałem lokalnych zespołów i artystów. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tellus magna, semper et est euismod, sagittis hendrerit dui. Fusce ornare sapien ac turpis placerat, et molestie nisi pulvinar. Nulla malesuada metus at dolor finibus, eget tincidunt justo vestibulum. Donec hendrerit ante id enim bibendum euismod scelerisque quis massa. Nullam elementum diam urna, tincidunt congue magna fringilla id. Sed hendrerit facilisis turpis, in imperdiet est varius molestie. Aliquam ultricies pharetra tortor, sit amet congue est egestas vitae. Cras nunc neque, hendrerit sed ex vitae, lacinia fringilla augue. Sed ultrices scelerisque molestie. Phasellus euismod erat eu rhoncus condimentum. Fusce vitae ante et velit ultricies ullamcorper.",
     "image": "https://picsum.photos/400/203",
     "type": "culture",
-    "phoneNumber": "+1234567893",
+    "phoneNumber": "+(01) 234-678-999",
     "email": "info@festiwalmuzyki.com",
     "address": "ul. Festiwalowa 5, Springfield, USA"
   },
@@ -50,7 +50,7 @@
     "description": "Drużyny z całego regionu zmierzą się w corocznym turnieju piłki nożnej. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tellus magna, semper et est euismod, sagittis hendrerit dui. Fusce ornare sapien ac turpis placerat, et molestie nisi pulvinar. Nulla malesuada metus at dolor finibus, eget tincidunt justo vestibulum. Donec hendrerit ante id enim bibendum euismod scelerisque quis massa. Nullam elementum diam urna, tincidunt congue magna fringilla id. Sed hendrerit facilisis turpis, in imperdiet est varius molestie. Aliquam ultricies pharetra tortor, sit amet congue est egestas vitae. Cras nunc neque, hendrerit sed ex vitae, lacinia fringilla augue. Sed ultrices scelerisque molestie. Phasellus euismod erat eu rhoncus condimentum. Fusce vitae ante et velit ultricies ullamcorper.",
     "image": "https://picsum.photos/400/204",
     "type": "sport",
-    "phoneNumber": "+1234567894",
+    "phoneNumber": "+(01) 234-678-999",
     "email": "info@turniejpilkinoznej.com",
     "address": "Stadion Miejski, Springfield, USA"
   },
@@ -61,7 +61,7 @@
     "description": "Naucz się gotować zdrowe i smaczne posiłki podczas naszych warsztatów kulinarnych. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tellus magna, semper et est euismod, sagittis hendrerit dui. Fusce ornare sapien ac turpis placerat, et molestie nisi pulvinar. Nulla malesuada metus at dolor finibus, eget tincidunt justo vestibulum. Donec hendrerit ante id enim bibendum euismod scelerisque quis massa. Nullam elementum diam urna, tincidunt congue magna fringilla id. Sed hendrerit facilisis turpis, in imperdiet est varius molestie. Aliquam ultricies pharetra tortor, sit amet congue est egestas vitae. Cras nunc neque, hendrerit sed ex vitae, lacinia fringilla augue. Sed ultrices scelerisque molestie. Phasellus euismod erat eu rhoncus condimentum. Fusce vitae ante et velit ultricies ullamcorper.",
     "image": "https://picsum.photos/400/205",
     "type": "health",
-    "phoneNumber": "+1234567895",
+    "phoneNumber": "+(01) 234-678-999",
     "email": "info@zdrowegotowanie.com",
     "address": "ul. Kucharska 8, Springfield, USA"
   },
@@ -72,7 +72,7 @@
     "description": "Przyjdź i ciesz się wieczorem pełnym spektakli teatralnych. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tellus magna, semper et est euismod, sagittis hendrerit dui. Fusce ornare sapien ac turpis placerat, et molestie nisi pulvinar. Nulla malesuada metus at dolor finibus, eget tincidunt justo vestibulum. Donec hendrerit ante id enim bibendum euismod scelerisque quis massa. Nullam elementum diam urna, tincidunt congue magna fringilla id. Sed hendrerit facilisis turpis, in imperdiet est varius molestie. Aliquam ultricies pharetra tortor, sit amet congue est egestas vitae. Cras nunc neque, hendrerit sed ex vitae, lacinia fringilla augue. Sed ultrices scelerisque molestie. Phasellus euismod erat eu rhoncus condimentum. Fusce vitae ante et velit ultricies ullamcorper.",
     "image": "https://picsum.photos/400/206",
     "type": "culture",
-    "phoneNumber": "+1234567896",
+    "phoneNumber": "+(01) 234-678-999",
     "email": "info@wieczorteatralny.com",
     "address": "Teatr Miejski, ul. Teatralna 15, Springfield, USA"
   },
@@ -83,7 +83,7 @@
     "description": "Weź udział w rajdzie rowerowym przez malownicze trasy w okolicach miasta. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tellus magna, semper et est euismod, sagittis hendrerit dui. Fusce ornare sapien ac turpis placerat, et molestie nisi pulvinar. Nulla malesuada metus at dolor finibus, eget tincidunt justo vestibulum. Donec hendrerit ante id enim bibendum euismod scelerisque quis massa. Nullam elementum diam urna, tincidunt congue magna fringilla id. Sed hendrerit facilisis turpis, in imperdiet est varius molestie. Aliquam ultricies pharetra tortor, sit amet congue est egestas vitae. Cras nunc neque, hendrerit sed ex vitae, lacinia fringilla augue. Sed ultrices scelerisque molestie. Phasellus euismod erat eu rhoncus condimentum. Fusce vitae ante et velit ultricies ullamcorper.",
     "image": "https://picsum.photos/400/207",
     "type": "sport",
-    "phoneNumber": "+1234567897",
+    "phoneNumber": "+(01) 234-678-999",
     "email": "info@rajdrowerowy.com",
     "address": "ul. Rowerowa 3, Springfield, USA"
   },
@@ -94,7 +94,7 @@
     "description": "Odwiedź nasz Dzień Zdrowia i skorzystaj z darmowych badań oraz konsultacji zdrowotnych. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tellus magna, semper et est euismod, sagittis hendrerit dui. Fusce ornare sapien ac turpis placerat, et molestie nisi pulvinar. Nulla malesuada metus at dolor finibus, eget tincidunt justo vestibulum. Donec hendrerit ante id enim bibendum euismod scelerisque quis massa. Nullam elementum diam urna, tincidunt congue magna fringilla id. Sed hendrerit facilisis turpis, in imperdiet est varius molestie. Aliquam ultricies pharetra tortor, sit amet congue est egestas vitae. Cras nunc neque, hendrerit sed ex vitae, lacinia fringilla augue. Sed ultrices scelerisque molestie. Phasellus euismod erat eu rhoncus condimentum. Fusce vitae ante et velit ultricies ullamcorper.",
     "image": "https://picsum.photos/400/208",
     "type": "health",
-    "phoneNumber": "+1234567898",
+    "phoneNumber": "+(01) 234-678-999",
     "email": "info@dzienzdrowia.com",
     "address": "Centrum Zdrowia, ul. Medyczna 20, Springfield, USA"
   },
@@ -105,7 +105,7 @@
     "description": "Zapraszamy na wieczór filmowy na świeżym powietrzu. Przynieś własny koc i ciesz się filmem pod gwiazdami. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tellus magna, semper et est euismod, sagittis hendrerit dui. Fusce ornare sapien ac turpis placerat, et molestie nisi pulvinar. Nulla malesuada metus at dolor finibus, eget tincidunt justo vestibulum. Donec hendrerit ante id enim bibendum euismod scelerisque quis massa. Nullam elementum diam urna, tincidunt congue magna fringilla id. Sed hendrerit facilisis turpis, in imperdiet est varius molestie. Aliquam ultricies pharetra tortor, sit amet congue est egestas vitae. Cras nunc neque, hendrerit sed ex vitae, lacinia fringilla augue. Sed ultrices scelerisque molestie. Phasellus euismod erat eu rhoncus condimentum. Fusce vitae ante et velit ultricies ullamcorper.",
     "image": "https://picsum.photos/400/209",
     "type": "culture",
-    "phoneNumber": "+1234567899",
+    "phoneNumber": "+(01) 234-678-999",
     "email": "info@filmowynaswiezympowietrzu.com",
     "address": "Park Filmowy, ul. Kinowa 7, Springfield, USA"
   }

@@ -81,9 +81,9 @@ function EventDetails() {
             <br />
             <FormattedMessage id="contact" />
             <br />
-            {event.phoneNumber}
+            <a href={`tel:${event.phoneNumber}`}>{event.phoneNumber}</a>
             <br />
-            {event.email}
+            <a href={`mailto:${event.email}`}>{event.email}</a>
           </Typography>
         </DetailsWrapper>
       ) : (

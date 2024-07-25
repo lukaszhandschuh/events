@@ -88,7 +88,7 @@ function EventForm() {
         addEvent({
           ...values,
           date: values.date.toISO()!,
-          image: "https://picsum.photos/400/199", // TODO
+          image: "https://picsum.photos/400/199",
         })
       );
 
