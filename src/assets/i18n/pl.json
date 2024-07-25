@@ -1,0 +1,30 @@
+{
+  "share": "Udostępnij",
+  "more": "Więcej",
+  "save": "Zapisz",
+  "clear": "Wyczyść",
+  "addEvent": "Dodaj wydarzenie",
+  "eventsList": "Lista wydarzeń",
+
+  "title": "Tytuł",
+  "eventDate": "Data wydarzenia",
+  "description": "Opis",
+  "image": "Grafika",
+  "eventType": "Rodzaj wydarzenia",
+  "email": "Email kontaktowy",
+  "phoneNumber": "Numer kontaktowy",
+  "address": "Adres",
+  "required": "Pole wymagane",
+  "emailInvalid": "Niepoprawny email",
+  "phoneNumberInvalid": "Niepoprawny numer telefonu",
+  "invalidEventType": "Niepoprawny rodzaj wydarzenia",
+  "invalidMax": "Zbyt duża liczba znaków. Maksymalnie",
+  "contact": "Kontakt",
+  "eventImage": "Zdjęcie wydarzenia",
+
+  "sport": "Sport",
+  "culture": "Kultura",
+  "health": "Zdrowie",
+
+  "eventAdded": "Pomyślnie dodano wydarzenie"
+}

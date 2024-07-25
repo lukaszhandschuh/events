@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "title": "Maraton Miejski",
+    "date": "2024-08-01T09:00:00Z",
+    "description": "Dołącz do nas na corocznym maratonie miejskim. Biegacze na każdym poziomie są mile widziani! Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tellus magna, semper et est euismod, sagittis hendrerit dui. Fusce ornare sapien ac turpis placerat, et molestie nisi pulvinar. Nulla malesuada metus at dolor finibus, eget tincidunt justo vestibulum. Donec hendrerit ante id enim bibendum euismod scelerisque quis massa. Nullam elementum diam urna, tincidunt congue magna fringilla id. Sed hendrerit facilisis turpis, in imperdiet est varius molestie. Aliquam ultricies pharetra tortor, sit amet congue est egestas vitae. Cras nunc neque, hendrerit sed ex vitae, lacinia fringilla augue. Sed ultrices scelerisque molestie. Phasellus euismod erat eu rhoncus condimentum. Fusce vitae ante et velit ultricies ullamcorper.",
+    "image": "https://picsum.photos/400/200",
+    "type": "sport",
+    "phoneNumber": "+1234567890",
+    "email": "info@maratonmiejski.com",
+    "address": "ul. Główna 123, Springfield, USA"
+  },
+  {
+    "id": 2,
+    "title": "Otwarcie Galerii Sztuki",
+    "date": "2024-08-05T18:00:00Z",
+    "description": "Doświadcz najnowszych dzieł lokalnych artystów w galerii sztuki w centrum miasta. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tellus magna, semper et est euismod, sagittis hendrerit dui. Fusce ornare sapien ac turpis placerat, et molestie nisi pulvinar. Nulla malesuada metus at dolor finibus, eget tincidunt justo vestibulum. Donec hendrerit ante id enim bibendum euismod scelerisque quis massa. Nullam elementum diam urna, tincidunt congue magna fringilla id. Sed hendrerit facilisis turpis, in imperdiet est varius molestie. Aliquam ultricies pharetra tortor, sit amet congue est egestas vitae. Cras nunc neque, hendrerit sed ex vitae, lacinia fringilla augue. Sed ultrices scelerisque molestie. Phasellus euismod erat eu rhoncus condimentum. Fusce vitae ante et velit ultricies ullamcorper.",
+    "image": "https://picsum.photos/400/201",
+    "type": "culture",
+    "phoneNumber": "+1234567891",
+    "email": "kontakt@galleriesztuki.com",
+    "address": "ul. Kulturalna 10, Springfield, USA"
+  },
+  {
+    "id": 3,
+    "title": "Joga w Parku",
+    "date": "2024-08-10T07:00:00Z",
+    "description": "Zapraszamy na poranną jogę w parku. Zajęcia prowadzone przez doświadczonego instruktora. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tellus magna, semper et est euismod, sagittis hendrerit dui. Fusce ornare sapien ac turpis placerat, et molestie nisi pulvinar. Nulla malesuada metus at dolor finibus, eget tincidunt justo vestibulum. Donec hendrerit ante id enim bibendum euismod scelerisque quis massa. Nullam elementum diam urna, tincidunt congue magna fringilla id. Sed hendrerit facilisis turpis, in imperdiet est varius molestie. Aliquam ultricies pharetra tortor, sit amet congue est egestas vitae. Cras nunc neque, hendrerit sed ex vitae, lacinia fringilla augue. Sed ultrices scelerisque molestie. Phasellus euismod erat eu rhoncus condimentum. Fusce vitae ante et velit ultricies ullamcorper.",
+    "image": "https://picsum.photos/400/202",
+    "type": "health",
+    "phoneNumber": "+1234567892",
+    "email": "info@jogawparku.com",
+    "address": "Park Centralny, Springfield, USA"
+  },
+  {
+    "id": 4,
+    "title": "Festiwal Muzyki",
+    "date": "2024-08-15T12:00:00Z",
+    "description": "Całodniowy festiwal muzyczny z udziałem lokalnych zespołów i artystów. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tellus magna, semper et est euismod, sagittis hendrerit dui. Fusce ornare sapien ac turpis placerat, et molestie nisi pulvinar. Nulla malesuada metus at dolor finibus, eget tincidunt justo vestibulum. Donec hendrerit ante id enim bibendum euismod scelerisque quis massa. Nullam elementum diam urna, tincidunt congue magna fringilla id. Sed hendrerit facilisis turpis, in imperdiet est varius molestie. Aliquam ultricies pharetra tortor, sit amet congue est egestas vitae. Cras nunc neque, hendrerit sed ex vitae, lacinia fringilla augue. Sed ultrices scelerisque molestie. Phasellus euismod erat eu rhoncus condimentum. Fusce vitae ante et velit ultricies ullamcorper.",
+    "image": "https://picsum.photos/400/203",
+    "type": "culture",
+    "phoneNumber": "+1234567893",
+    "email": "info@festiwalmuzyki.com",
+    "address": "ul. Festiwalowa 5, Springfield, USA"
+  },
+  {
+    "id": 5,
+    "title": "Turniej Piłki Nożnej",
+    "date": "2024-08-20T10:00:00Z",
+    "description": "Drużyny z całego regionu zmierzą się w corocznym turnieju piłki nożnej. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tellus magna, semper et est euismod, sagittis hendrerit dui. Fusce ornare sapien ac turpis placerat, et molestie nisi pulvinar. Nulla malesuada metus at dolor finibus, eget tincidunt justo vestibulum. Donec hendrerit ante id enim bibendum euismod scelerisque quis massa. Nullam elementum diam urna, tincidunt congue magna fringilla id. Sed hendrerit facilisis turpis, in imperdiet est varius molestie. Aliquam ultricies pharetra tortor, sit amet congue est egestas vitae. Cras nunc neque, hendrerit sed ex vitae, lacinia fringilla augue. Sed ultrices scelerisque molestie. Phasellus euismod erat eu rhoncus condimentum. Fusce vitae ante et velit ultricies ullamcorper.",
+    "image": "https://picsum.photos/400/204",
+    "type": "sport",
+    "phoneNumber": "+1234567894",
+    "email": "info@turniejpilkinoznej.com",
+    "address": "Stadion Miejski, Springfield, USA"
+  },
+  {
+    "id": 6,
+    "title": "Warsztaty Zdrowego Gotowania",
+    "date": "2024-08-25T14:00:00Z",
+    "description": "Naucz się gotować zdrowe i smaczne posiłki podczas naszych warsztatów kulinarnych. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tellus magna, semper et est euismod, sagittis hendrerit dui. Fusce ornare sapien ac turpis placerat, et molestie nisi pulvinar. Nulla malesuada metus at dolor finibus, eget tincidunt justo vestibulum. Donec hendrerit ante id enim bibendum euismod scelerisque quis massa. Nullam elementum diam urna, tincidunt congue magna fringilla id. Sed hendrerit facilisis turpis, in imperdiet est varius molestie. Aliquam ultricies pharetra tortor, sit amet congue est egestas vitae. Cras nunc neque, hendrerit sed ex vitae, lacinia fringilla augue. Sed ultrices scelerisque molestie. Phasellus euismod erat eu rhoncus condimentum. Fusce vitae ante et velit ultricies ullamcorper.",
+    "image": "https://picsum.photos/400/205",
+    "type": "health",
+    "phoneNumber": "+1234567895",
+    "email": "info@zdrowegotowanie.com",
+    "address": "ul. Kucharska 8, Springfield, USA"
+  },
+  {
+    "id": 7,
+    "title": "Wieczór Teatralny",
+    "date": "2024-08-30T19:00:00Z",
+    "description": "Przyjdź i ciesz się wieczorem pełnym spektakli teatralnych. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tellus magna, semper et est euismod, sagittis hendrerit dui. Fusce ornare sapien ac turpis placerat, et molestie nisi pulvinar. Nulla malesuada metus at dolor finibus, eget tincidunt justo vestibulum. Donec hendrerit ante id enim bibendum euismod scelerisque quis massa. Nullam elementum diam urna, tincidunt congue magna fringilla id. Sed hendrerit facilisis turpis, in imperdiet est varius molestie. Aliquam ultricies pharetra tortor, sit amet congue est egestas vitae. Cras nunc neque, hendrerit sed ex vitae, lacinia fringilla augue. Sed ultrices scelerisque molestie. Phasellus euismod erat eu rhoncus condimentum. Fusce vitae ante et velit ultricies ullamcorper.",
+    "image": "https://picsum.photos/400/206",
+    "type": "culture",
+    "phoneNumber": "+1234567896",
+    "email": "info@wieczorteatralny.com",
+    "address": "Teatr Miejski, ul. Teatralna 15, Springfield, USA"
+  },
+  {
+    "id": 8,
+    "title": "Rajd Rowerowy",
+    "date": "2024-09-05T08:00:00Z",
+    "description": "Weź udział w rajdzie rowerowym przez malownicze trasy w okolicach miasta. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tellus magna, semper et est euismod, sagittis hendrerit dui. Fusce ornare sapien ac turpis placerat, et molestie nisi pulvinar. Nulla malesuada metus at dolor finibus, eget tincidunt justo vestibulum. Donec hendrerit ante id enim bibendum euismod scelerisque quis massa. Nullam elementum diam urna, tincidunt congue magna fringilla id. Sed hendrerit facilisis turpis, in imperdiet est varius molestie. Aliquam ultricies pharetra tortor, sit amet congue est egestas vitae. Cras nunc neque, hendrerit sed ex vitae, lacinia fringilla augue. Sed ultrices scelerisque molestie. Phasellus euismod erat eu rhoncus condimentum. Fusce vitae ante et velit ultricies ullamcorper.",
+    "image": "https://picsum.photos/400/207",
+    "type": "sport",
+    "phoneNumber": "+1234567897",
+    "email": "info@rajdrowerowy.com",
+    "address": "ul. Rowerowa 3, Springfield, USA"
+  },
+  {
+    "id": 9,
+    "title": "Dzień Zdrowia",
+    "date": "2024-09-10T10:00:00Z",
+    "description": "Odwiedź nasz Dzień Zdrowia i skorzystaj z darmowych badań oraz konsultacji zdrowotnych. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tellus magna, semper et est euismod, sagittis hendrerit dui. Fusce ornare sapien ac turpis placerat, et molestie nisi pulvinar. Nulla malesuada metus at dolor finibus, eget tincidunt justo vestibulum. Donec hendrerit ante id enim bibendum euismod scelerisque quis massa. Nullam elementum diam urna, tincidunt congue magna fringilla id. Sed hendrerit facilisis turpis, in imperdiet est varius molestie. Aliquam ultricies pharetra tortor, sit amet congue est egestas vitae. Cras nunc neque, hendrerit sed ex vitae, lacinia fringilla augue. Sed ultrices scelerisque molestie. Phasellus euismod erat eu rhoncus condimentum. Fusce vitae ante et velit ultricies ullamcorper.",
+    "image": "https://picsum.photos/400/208",
+    "type": "health",
+    "phoneNumber": "+1234567898",
+    "email": "info@dzienzdrowia.com",
+    "address": "Centrum Zdrowia, ul. Medyczna 20, Springfield, USA"
+  },
+  {
+    "id": 10,
+    "title": "Wieczór Filmowy",
+    "date": "2024-09-15T20:00:00Z",
+    "description": "Zapraszamy na wieczór filmowy na świeżym powietrzu. Przynieś własny koc i ciesz się filmem pod gwiazdami. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tellus magna, semper et est euismod, sagittis hendrerit dui. Fusce ornare sapien ac turpis placerat, et molestie nisi pulvinar. Nulla malesuada metus at dolor finibus, eget tincidunt justo vestibulum. Donec hendrerit ante id enim bibendum euismod scelerisque quis massa. Nullam elementum diam urna, tincidunt congue magna fringilla id. Sed hendrerit facilisis turpis, in imperdiet est varius molestie. Aliquam ultricies pharetra tortor, sit amet congue est egestas vitae. Cras nunc neque, hendrerit sed ex vitae, lacinia fringilla augue. Sed ultrices scelerisque molestie. Phasellus euismod erat eu rhoncus condimentum. Fusce vitae ante et velit ultricies ullamcorper.",
+    "image": "https://picsum.photos/400/209",
+    "type": "culture",
+    "phoneNumber": "+1234567899",
+    "email": "info@filmowynaswiezympowietrzu.com",
+    "address": "Park Filmowy, ul. Kinowa 7, Springfield, USA"
+  }
+]

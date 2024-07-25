@@ -1,0 +1,29 @@
+{
+  "share": "Share",
+  "more": "More",
+  "save": "Save",
+  "addEvent": "Add event",
+  "eventsList": "Events list",
+
+  "title": "Title",
+  "eventDate": "Event data",
+  "description": "Description",
+  "image": "Image",
+  "eventType": "Event type",
+  "email": "Email",
+  "phoneNumber": "Phone number",
+  "address": "Address",
+  "required": "Filed is required",
+  "emailInvalid": "Invalid email",
+  "phoneNumberInvalid": "Invalid phone number",
+  "invalidEventType": "Invalid event type",
+  "invalidMax": "Too many characters. Maximum",
+  "contact": "Contact",
+  "eventImage": "Event image",
+
+  "sport": "Sport",
+  "culture": "Culture",
+  "health": "Health",
+
+  "eventAdded": "Event added successfully"
+}
